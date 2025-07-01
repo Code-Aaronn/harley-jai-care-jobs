@@ -1,24 +1,5 @@
 [
   {
-    "id": "senior-care-worker-city-uk",
-    "title": "Senior Care Worker",
-    "location": "City, UK",
-    "employment_type": "Full-time, Permanent",
-    "contract_length": "Permanent",
-    "working_hours": "38.5 hours/week",
-    "salary": "Band 4",
-    "salary_type": "Annual",
-    "qualifications_required": "NVQ Level 3 in Health and Social Care",
-    "experience_required": "Experience in a senior or leadership role",
-    "soc_code": "6145",
-    "posted_date": "2021-08-02",
-    "closing_date": "2021-08-09",
-    "apply_url": "https://yourdomain.com/apply/senior-care-worker-city-uk",
-    "sponsorship_available": false,
-    "description": "<p>The Senior Care Worker will be responsible for overseeing and mentoring other care staff, developing and implementing care plans, administering medication (under supervision), and assisting with daily living activities. This role requires a compassionate and dedicated individual who is able to provide high-quality care to vulnerable individuals. The role falls under SOC Code 6145 with a salary band of Band 4.</p>\n\n<p>The key responsibilities of the Senior Care Worker include overseeing and mentoring other care staff, developing and implementing care plans, administering medication under supervision, and assisting with daily living activities. The role reports to the Care Manager.</p>\n\n<p>The ideal candidate for this role will have experience working in a care setting, strong communication and interpersonal skills, the ability to work well in a team, and an understanding of health and safety regulations. They must also be able to administer medication under supervision. Desirable criteria for this role include an NVQ Level 3 in Health and Social Care, experience in a senior or leadership role, experience with developing care plans, and experience with assisting with daily living activities.</p>\n\n<ul>\n  <li>Competitive salary in Band 4</li>\n  <li>Full-time, permanent contract</li>\n  <li>Located in the UK</li>\n</ul>",
-    "logo": null
-  },
-  {
     "id": "care-worker-city-uk",
     "title": "Care Worker",
     "location": "City, UK",
