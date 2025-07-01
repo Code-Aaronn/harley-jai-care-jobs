@@ -1,24 +1,5 @@
 [
   {
-    "id": "senior-care-manager-london",
-    "title": "Senior Care Manager",
-    "location": "London, UK",
-    "employment_type": "Full-time, Permanent",
-    "contract_length": "Permanent",
-    "working_hours": "38.5 hours/week",
-    "salary": "Band 6",
-    "salary_type": "Annual",
-    "qualifications_required": "None mentioned",
-    "experience_required": "Leadership or management role within a care setting",
-    "soc_code": "1181",
-    "posted_date": "2021-07-06",
-    "closing_date": "2021-07-13",
-    "apply_url": "https://yourdomain.com/apply/senior-care-manager-london",
-    "sponsorship_available": false,
-    "description": "<p>The Senior Care Manager is a key role within our organization, responsible for leading and supervising care teams to deliver high-quality person-centered care. This is a Band 6 position with a salary range of [INSERT SALARY RANGE HERE] and will report to [INSERT REPORTING LINE HERE].</p>\n\n<p>As the Senior Care Manager, you will be responsible for conducting assessments and developing comprehensive care plans, ensuring compliance with health and safety regulations and CQC standards. You will also be responsible for managing staff schedules and coordinating training programs, liaising with healthcare professionals, families, and external agencies, monitoring care delivery and implementing quality improvements, handling complex cases and providing clinical guidance to junior staff, and maintaining accurate records and preparing reports for management.</p>\n\n<p>The ideal candidate for this role will have experience in a leadership or management role within a care setting, with a strong knowledge of health and safety regulations and CQC standards. Excellent communication and interpersonal skills, as well as strong organizational and time-management abilities, are essential for success in this role. The ability to handle complex cases and provide clinical guidance is also a key requirement.</p>\n\n<ul>\n  <li>Competitive salary range of [INSERT SALARY RANGE HERE]</li>\n  <li>Full-time, permanent contract</li>\n  <li>Location: [INSERT LOCATION HERE]</li>\n</ul>",
-    "logo": null
-  },
-  {
     "id": "healthcare-assistant-city-uk",
     "title": "Healthcare Assistant",
     "location": "City, UK",
